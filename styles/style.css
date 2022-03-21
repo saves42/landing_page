@@ -37,11 +37,19 @@ button#submit {
     background-color: #ffe0fb;
 }
 
+button#submit:hover {
+    background-color: #ffaaf4;
+}
+
 button.select {
     width: 120px;
     padding: 0.4em;
     margin-bottom: 1em;
     background-color: #ffe0fb;
+}
+
+button:hover {
+    background-color: #ffaaf4;
 }
 
 .dk-bg {
