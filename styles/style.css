@@ -238,7 +238,11 @@ div.dk-bg {
     margin-bottom: 1em;;
 }
 
-
+.money::before {
+    font: var(--fa-font-solid);
+    content: "\f81d";
+    margin-right: 0.5em;
+}
 
 .col-flex ul{
     margin: 0 0 1em 0;
